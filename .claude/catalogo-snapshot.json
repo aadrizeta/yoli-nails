@@ -1,0 +1,608 @@
+{
+  "_nota": "Snapshot del 2026-10-01 SOLO para maquetar/mocks. La fuente de verdad es la Storefront API. Stock = 0 en todos (a propósito).",
+  "products": [
+    {
+      "handle": "serum-antiedad-coenzima-q10",
+      "title": "Sérum Antiedad Coenzima Q10",
+      "vendor": "D'LUCANI",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:antiedad",
+        "zona:rostro",
+        "atributo:vegano"
+      ],
+      "price": "55.00",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni-serum-q10.jpg?v=1790157757",
+      "imageAlt": "Dlucanni sérum q10",
+      "ingredientes": "Agua, Propanediol, Glicerina, Benzoato de alquilo C12-15, Lecitina, Aceite de semilla de Helianthus Annuus (girasol), EDTA disódico, Ubiquinona (Coenzima Q10), Undecilenato de glicerilo, Caprilato de glicerilo, Acetato de tocoferilo (Vitamina E), Tocoferol (Vitamina E pura), Copolímero de acrilatos de sodio, Perfume / Fragancia, Alcohol bencílico, Citronelol, Hexil cinamal",
+      "uso": "Sobre la piel limpia y seca, se aplica una pequeña cantidad con un suave masaje en rostro, cuello y escote hasta su total absorción.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "gel-contorno-de-ojos-active",
+      "title": "Gel contorno de ojos Active",
+      "vendor": "Integra",
+      "productType": "Contorno de ojos",
+      "tags": [
+        "necesidad:hidratacion",
+        "necesidad:antiedad",
+        "zona:ojos",
+        "momento:dia",
+        "linea:active"
+      ],
+      "price": "23.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-active-contorno-de-ojos.jpg?v=1790157832",
+      "imageAlt": "Integra active contorno de ojos",
+      "ingredientes": null,
+      "uso": "Uso de día. Con el rostro limpio y seco aplicar en el contorno de ojos. Masajear suavemente hasta su completa absorción. Finalizar con la aplicación de un fotoprotector facial.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "crema-antimanchas-y-luminosidad-vita-c-booster",
+      "title": "Crema antimanchas y luminosidad Vita C Booster",
+      "vendor": "D'LUCANI",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:luminosidad-antimanchas",
+        "piel:madura",
+        "zona:rostro",
+        "momento:noche",
+        "linea:vita-c"
+      ],
+      "price": "46.00",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni-vita-c-booster-cream.jpg?v=1790157910",
+      "imageAlt": "crema Dlucanni Vita C Booster",
+      "ingredientes": "Ascorbyl glucoside (vitamina C), Extractos de siegesbeckia orientalis y de rabdosia rubenscens",
+      "uso": "Uso preferiblemente nocturno. Aplicar Vita C Booster realizando un suave masaje por todo el rostro hasta su completa absorción. Potencia sus efectos aplicando previamente Vita C Booster Sérum.\nSi se usa de día finalizar con un fotoprotector facial de alto factor.",
+      "ingredientesEstado": "INCOMPLETO (resumen, no lista INCI)"
+    },
+    {
+      "handle": "matipur-serum-sebo-regulador-anti-imperfecciones",
+      "title": "Matipur Sérum sebo-regulador anti-imperfecciones",
+      "vendor": "D'LUCANI",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "piel:mixta-grasa",
+        "zona:rostro",
+        "momento:dia-noche",
+        "linea:matipur"
+      ],
+      "price": "46.00",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni-matipur-serum-seborregulador.jpg?v=1790158057",
+      "imageAlt": "Sérum seborregulador matipur Dlucanni",
+      "ingredientes": "Complejo botánico, Aminoácidos y vitaminas grupo B, Derivado del ácido azelaico, Fitoesfingosina",
+      "uso": "Uso de día/noche. Con la cara limpia y desmaquillada, aplicar con la ayuda de la pipeta, unas gotas sobre las zonas a tratar. Masajear suavemente con los dedos hasta su absorción.\nSi se usa durante el día, finalizar con un fotoprotector facial.",
+      "ingredientesEstado": "INCOMPLETO (resumen, no lista INCI)"
+    },
+    {
+      "handle": "bruma-hidratante-magic-glow-mist",
+      "title": "Bruma hidratante Magic Glow Mist",
+      "vendor": "Integra",
+      "productType": "Bruma facial",
+      "tags": [
+        "necesidad:hidratacion",
+        "necesidad:luminosidad-antimanchas",
+        "zona:rostro",
+        "atributo:vegano"
+      ],
+      "price": "14.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-magic-glow-mist.jpg?v=1790158114",
+      "imageAlt": "Bruma magic glow Integra",
+      "ingredientes": null,
+      "uso": "Aplicar unas dos pulverizaciones sobre la piel limpia y seca.",
+      "ingredientesEstado": "FALTA (había texto de relleno)"
+    },
+    {
+      "handle": "crema-multifuncion-special-c",
+      "title": "Crema multifunción Special C",
+      "vendor": "Integra",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:antiedad",
+        "necesidad:luminosidad-antimanchas",
+        "zona:rostro",
+        "linea:special-c"
+      ],
+      "price": "41.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-special-c-cream.jpg?v=1790158157",
+      "imageAlt": "Crema Integra Special C",
+      "ingredientes": null,
+      "uso": "Aplicar sobre la piel limpia y seca en rostro, cuello y escote. Masajear suavemente en rostro y escote con movimientos ascendentes para combatir el efecto de la gravedad, y movimientos descendentes en el cuello para favorecer el drenaje. Continuar hasta su total absorción.",
+      "ingredientesEstado": "FALTA (había texto de relleno)"
+    },
+    {
+      "handle": "serum-antioxidante-special-c",
+      "title": "Sérum Antioxidante Special C",
+      "vendor": "Integra",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:luminosidad-antimanchas",
+        "necesidad:antiedad",
+        "zona:rostro",
+        "linea:special-c"
+      ],
+      "price": "29.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-special-c-serum.jpg?v=1790158216",
+      "imageAlt": "Sérum natural glow Integra",
+      "ingredientes": null,
+      "uso": "Utilizar después de la limpieza facial con la piel limpia y seca. Aplicar con la ayuda de la pipeta de 4 a 5 gotas directamente sobre frente, pómulos y cuello. Masajear suavemente con los dedos para su absorción.\nIMPORTANTE: finalizar la rutina con un fotoprotector solar si se utiliza de día.",
+      "ingredientesEstado": "FALTA (había texto de relleno)"
+    },
+    {
+      "handle": "locion-equilibrante-triple-a",
+      "title": "Loción equilibrante triple A",
+      "vendor": "D'LUCANI",
+      "productType": "Loción tónica",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "zona:rostro"
+      ],
+      "price": "23.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni_triple_accion.jpg?v=1790158314",
+      "imageAlt": "Loción equilibrante Triple A Dlucanni",
+      "ingredientes": "Agua, Lactato de amonio, Polisorbato 20, Ácido glicólico, Glicerina, Pantenol (Provitamina B5), Niacinamida (Vitamina B3), Clorhidrato de piridoxina (Vitamina B6), Treonina, Alantoína, Biotina (Vitamina B7/H), Proteína de levadura hidrolizada, Agua de Hamamelis Virginiana (avellano de la bruja), Aceite de hoja de Melaleuca Alternifolia (árbol del té), Aceite de ricino hidrogenado PEG-40, Alcohol, Butilenglicol, Ácido salicílico, Extracto de Fomes Officinalis (hongo del alerce), Propilenglicol, Ácido láctico, Etilhexilglicerina, Fenoxietanol, Clorfenesina, Limoneno, Alfa-terpineno, Pineno, Terpinoleno, Alcanfor, Terpineol",
+      "uso": "Humedecer una gasa o algodón hasta que quede totalmente impregnada. Mediante arrastre o toquecitos, aplicar empezando por el escote, continuar en sentido ascendente pasando por el cuello y finalizar trabajando todo el rostro. Aplicación diaria o días alternos según la necesidad de cada tipo de piel.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "sun-defense-locion-nutritiva-after-sun",
+      "title": "Sun defense Loción nutritiva After Sun",
+      "vendor": "Integra",
+      "productType": "Cuidado corporal",
+      "tags": [
+        "necesidad:solar",
+        "necesidad:calmante",
+        "piel:sensible",
+        "zona:cuerpo"
+      ],
+      "price": "24.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra_sun_defense_emulsion_zanahorias.jpg?v=1790158462",
+      "imageAlt": "Emulsión de zanahorias Integra",
+      "ingredientes": null,
+      "uso": "Aplicar sobre la piel limpia y seca después de la exposición solar. Masajear suavemente hasta la correcta absorción del producto.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "serum-antiedad-con-retinol",
+      "title": "Sérum antiedad con retinol",
+      "vendor": "D'LUCANI",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:antiedad",
+        "zona:rostro"
+      ],
+      "price": "59.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni_vita_a_serum.jpg?v=1789383701",
+      "imageAlt": null,
+      "ingredientes": "Retinol, Complejo de jojoba y cera de abejas",
+      "uso": "Aplicar sobre la cara, cuello y escote hasta la completa absorción del producto. A continuación utilizar un fotoprotector de alta protección. No usar con otros productos que contengan retinol.",
+      "ingredientesEstado": "INCOMPLETO (resumen, no lista INCI)"
+    },
+    {
+      "handle": "crema-relajante-felbo-relax-plus",
+      "title": "Crema relajante Felbo Relax Plus",
+      "vendor": "D'LUCANI",
+      "productType": "Cuidado corporal",
+      "tags": [
+        "necesidad:piernas-cansadas",
+        "zona:cuerpo"
+      ],
+      "price": "39.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni_felbo_relax_plus.jpg?v=1789382861",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Aplicar en la zona de las piernas. Masajear suavemente hasta su correcta absorción.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "purifying-cleaner-limpiador-para-pieles-mixtas-y-grasas",
+      "title": "Purifying cleaner limpiador para pieles mixtas y grasas",
+      "vendor": "EME PROFESSIONAL SKINCARE",
+      "productType": "Limpiador facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "piel:mixta-grasa",
+        "zona:rostro",
+        "momento:dia-noche",
+        "linea:purifying"
+      ],
+      "price": "24.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/eme_purifying_cleaner.jpg?v=1789375988",
+      "imageAlt": null,
+      "ingredientes": "Agua, Cocamidopropil betaína, Niacinamida (Vitamina B3), Isostearato de glicerilo PEG-90, Cocamida DEA, Metilpropanodiol, Cocoanfoacetato de sodio, Glicerina, Propanodiol, Caprililglicol, Cloruro de sodio, Ácido láctico, Perfume / Fragancia, Laureth-2, Extracto de Fomes Officinalis (hongo del alerce), Butilenglicol, Proteína de levadura hidrolizada, Pantenol (Provitamina B5), Clorhidrato de piridoxina (Vitamina B6), Benzoato de sodio, Fenilpropanol, Pentilenglicol, Alantoína, Clorfenesina, Treonina, Hialuronato acetilado de sodio, Hialuronato de sodio, Fenoxietanol, Polímero cruzado de hialuronato de sodio, Hialuronato de sodio hidrolizado, Aceite de ricino hidrogenado PEG-40, Biotina (Vitamina B7/H), Etilhexilglicerina",
+      "uso": "Mañana / Noche. Aplicar una pequeña cantidad sobre el rostro húmedo, emulsionar realizando un suave masaje circular hasta formar espuma y aclarar con abundante agua.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "contorno-de-ojos-miracle-eye-contour",
+      "title": "Contorno de Ojos Miracle Eye Contour",
+      "vendor": "EME PROFESSIONAL SKINCARE",
+      "productType": "Contorno de ojos",
+      "tags": [
+        "necesidad:ojeras-bolsas",
+        "necesidad:antiedad",
+        "zona:ojos"
+      ],
+      "price": "49.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/eme_miracle_eye_contour.jpg?v=1789375299",
+      "imageAlt": null,
+      "ingredientes": "Agua, Glicerina, Manteca de Butyrospermum Parkii (manteca de karité), Oligosacáridos de raíz de Cichorium Intybus (achicoria), Cafeína, Aceite de Prunus Amygdalus Dulcis (almendras dulces), Extracto de Dunaliella Salina, Propanodiol, Copolímero de acrilatos de sodio, Niacinamida, Pantenol, Amilopectina, Fenoxietanol, Lecitina, Hialuronato de sodio, Tocoferol (Vitamina E), Mica, Laurato de glicerilo, Dióxido de titanio, Perfume / Fragancia, Gluconolactona, Amilosa, Goma de Caesalpinia Spinosa (goma de tara), Benzoato de sodio, Acetato de celulosa, Trilaurina, Copolímero de acrilatos/metacrilato de amonio, Acetil hexapéptido-8, CI 77491 (óxido de hierro rojo), Gluconato de calcio, Geraniol, Citronelol",
+      "uso": "Dosifica una gota de producto, del tamaño de una lenteja, en la yema del dedo anular y aplícala en la zona del contorno de los ojos.\n\nMasajea el producto desde dentro hacia fuera, llegando hasta la zona de las patas de gallo. Al finalizar, da ligeros toques hasta su completa absorción.\n\nPara conseguir mejores resultados, realiza este masaje con ayuda del aplicador metálico hasta su completa absorción.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "crema-essential-care",
+      "title": "Crema facial hidratante Essential Care",
+      "vendor": "EME PROFESSIONAL SKINCARE",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:antiedad",
+        "necesidad:hidratacion",
+        "zona:rostro",
+        "momento:dia-noche",
+        "linea:essential"
+      ],
+      "price": "39.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/eme_essential_care.jpg?v=1789375029",
+      "imageAlt": null,
+      "ingredientes": "Agua, Cocamidopropil betaína, Niacinamida (Vitamina B3), Isostearato de glicerilo PEG-90, Cocamida DEA, Metilpropanodiol, Cocoanfoacetato de sodio, Glicerina, Propanodiol, Caprililglicol, Cloruro de sodio, Ácido láctico, Perfume / Fragancia, Laureth-2, Extracto de Fomes Officinalis (hongo del alerce), Butilenglicol, Proteína de levadura hidrolizada, Pantenol (Provitamina B5), Clorhidrato de piridoxina (Vitamina B6), Benzoato de sodio, Fenilpropanol, Pentilenglicol, Alantoína, Clorfenesina, Treonina, Hialuronato acetilado de sodio, Hialuronato de sodio, Fenoxietanol, Polímero cruzado de hialuronato de sodio, Hialuronato de sodio hidrolizado, Aceite de ricino hidrogenado PEG-40, Biotina (Vitamina B7/H), Etilhexilglicerina",
+      "uso": "Aplicar mañana y noche, tras el Serum Hyaluronic Intensive o Purifying Care, 3-4 pulsaciones de la crema sobre rostro y cuello, y 2-3 sobre escote. Masajear la piel suavemente hasta su completa absorción.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "crema-purifying-care",
+      "title": "Crema facial hidratante purifying care",
+      "vendor": "EME PROFESSIONAL SKINCARE",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "necesidad:hidratacion",
+        "piel:mixta-grasa",
+        "zona:rostro",
+        "momento:dia-noche",
+        "linea:purifying"
+      ],
+      "price": "30.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/eme_purifying_care.jpg?v=1789374510",
+      "imageAlt": null,
+      "ingredientes": "Agua, Glicerina, Niacinamida (Vitamina B3), Metilpropanodiol, Esqualano, Acetato de tocoferilo (Vitamina E), Alcohol cetílico, Dimeticona, Aceite mineral (Paraffinum Liquidum), Caprililglicol, Pantenol (Provitamina B5), Polímero cruzado de acrilatos/acrilato de alquilo C10-30, Poliacrilato de sodio, Tocoferol (Vitamina E pura), Fenilpropanol, Aceite de Glycine Soja (soja), Hidróxido de sodio, Extracto de Centella Asiatica, Sorbato de potasio, Benzoato de sodio",
+      "uso": "Mañana / Noche. Aplicar sobre la piel limpia y seca del rostro, cuello y escote, realizando un suave masaje ascendente hasta su completa penetración.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "serum-hialuronico-intensivo",
+      "title": "Sérum contorno de ojos con ácido hialurónico",
+      "vendor": "EME PROFESSIONAL SKINCARE",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:antiedad",
+        "necesidad:hidratacion",
+        "piel:madura",
+        "zona:rostro"
+      ],
+      "price": "59.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/eme-hyaluronic-intensive-serum.jpg?v=1789373703",
+      "imageAlt": null,
+      "ingredientes": "Agua, Glicerina, Niacinamida (Vitamina B3), Fenoxietanol, Hialuronato de sodio, Acetato de tocoferilo (Vitamina E), Celulosa, Resveratrol, Poliacrilato de sodio, Etilhexilglicerina, Aceite de ricino hidrogenado PEG-40, Perfume / Fragancia, Citronelol, Geraniol",
+      "uso": null,
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "leche-desmaquillante-hidratante-para-piel-adulta-y-deshidratada",
+      "title": "Leche Desmaquillante Hidratante para Piel Adulta y Deshidratada",
+      "vendor": "Integra",
+      "productType": "Limpiador facial",
+      "tags": [
+        "necesidad:hidratacion",
+        "piel:madura",
+        "piel:seca-deshidratada",
+        "zona:rostro"
+      ],
+      "price": "30.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/leche-desmaquillante-500-ml.jpg?v=1788247897",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Masajear sobre el rostro y cuello húmedos con movimientos circulares para disolver el maquillaje y las impurezas. Retirar suavemente con un disco de algodón o aclarar con agua tibia.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "crema-de-dia-calmante-con-azuleno-para-piel-sensible",
+      "title": "Crema de Día Calmante con Azuleno para Piel Sensible",
+      "vendor": "Integra",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:calmante",
+        "piel:sensible",
+        "zona:rostro",
+        "momento:dia"
+      ],
+      "price": "29.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-sensitive-azulene-day-cream.jpg?v=1788247445",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Sobre la piel del rostro y cuello, limpia y seca, aplicar masajeando suavemente hasta su completa absorción.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "fotoprotector-solar-anti-edad-extreme-spf-50",
+      "title": "Fotoprotector Solar Anti-edad Extreme SPF 50",
+      "vendor": "Integra",
+      "productType": "Fotoprotector",
+      "tags": [
+        "necesidad:solar",
+        "necesidad:antiedad",
+        "zona:rostro"
+      ],
+      "price": "29.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-extreme-dlucani.jpg?v=1788247050",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Utilización posterior a la crema hidratante habitual. Aplicar una capa generosa y uniforme sobre el rostro, cuello y escote al menos 30 minutos antes de la exposición solar. Reaplicar cada 2 horas o tras bañarse/sudar.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "glass-booster-alisador-anti-imperfecciones-y-minimizador-de-poros",
+      "title": "Glass Booster Alisador Anti-imperfecciones y Minimizador de Poros",
+      "vendor": "D'LUCANI",
+      "productType": "Booster facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "necesidad:antiedad",
+        "piel:mixta-grasa",
+        "zona:rostro"
+      ],
+      "price": "29.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/glass-booster-anti-imperfecciones-dlucani.jpg?v=1788246315",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Aplicar al final de la rutina de Skin Care o al principio de la rutina Make-up.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "booster-revitalizante-con-vitamina-c",
+      "title": "Booster Revitalizante con Vitamina C",
+      "vendor": "D'LUCANI",
+      "productType": "Booster facial",
+      "tags": [
+        "necesidad:luminosidad-antimanchas",
+        "zona:rostro",
+        "linea:vita-c"
+      ],
+      "price": "75.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni-vita-c-booster.jpg?v=1788173963",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Sobre la piel limpia y seca aplicamos VITA C SÉRUM, dejar secar un minuto. A continuación, aplicamos VITA C BOOSTER realizando un suave masaje hasta su completa absorción. VITA C BOOSTER puede utilizarse también de forma individual.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "matipur-serum-equilibrante-y-seborregulador-anti-brillos",
+      "title": "Matipur Sérum Equilibrante y Seborregulador Anti-brillos",
+      "vendor": "D'LUCANI",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "piel:mixta-grasa",
+        "piel:sensible",
+        "zona:rostro",
+        "linea:matipur"
+      ],
+      "price": "0.00",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/serum-matipur-dlucanni.jpg?v=1788173432",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Sobre la piel limpia y seca aplicar unas gotas con ayuda de la pipeta, masajeando suavemente hasta su completa absorción.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "protector-solar-coloreado-muy-alta-proteccion-spf-50",
+      "title": "Protector Solar Coloreado Muy Alta Protección SPF 50+",
+      "vendor": "D'LUCANI",
+      "productType": "Fotoprotector",
+      "tags": [
+        "necesidad:solar",
+        "zona:rostro"
+      ],
+      "price": "49.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucani-sun-care.jpg?v=1788173055",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Aplicar generosamente 20 minutos antes de la exposición al sol. Para mantener la protección, repita con frecuencia la aplicación del producto, especialmente tras transpirar, bañarse o secarse.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "crema-antiarrugas-y-reafirmante-active-cream",
+      "title": "Crema Antiarrugas y Reafirmante Active Cream",
+      "vendor": "Integra",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:antiedad",
+        "zona:rostro",
+        "linea:active"
+      ],
+      "price": "28.00",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/integra-active-cream.jpg?v=1790239005",
+      "imageAlt": "Crema active Inegra",
+      "ingredientes": null,
+      "uso": "Extender sobre el rostro, cuello y escote limpios, realizando un masaje tensor de abajo hacia arriba hasta que el producto penetre por completo.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "crema-de-dia-hidratante-y-antioxidante-con-jalea-real",
+      "title": "Crema de Día Hidratante y Antioxidante con Jalea Real",
+      "vendor": "Integra",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:hidratacion",
+        "necesidad:antiedad",
+        "zona:rostro",
+        "momento:dia"
+      ],
+      "price": "36.00",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucani-crema-jalea-real.jpg?v=1788172101",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Aplicar por las mañanas sobre rostro y cuello previamente limpios, realizando movimientos circulares ascendentes para facilitar la absorción.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "serum-facial-antioxidante-antipolucion-y-unificador-de-tono",
+      "title": "Sérum Facial Antioxidante, Antipolución y Unificador de Tono",
+      "vendor": "D'LUCANI",
+      "productType": "Sérum facial",
+      "tags": [
+        "necesidad:luminosidad-antimanchas",
+        "necesidad:antiedad",
+        "zona:rostro"
+      ],
+      "price": "49.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni-vita-c2-pure-serum-facial-iluminador.jpg?v=1788171591",
+      "imageAlt": null,
+      "ingredientes": "Propilenglicol, Extracto de hoja de Ginkgo biloba, Agua, Ácido ascórbico, Glicerina, Ascorbil glucósido, Extracto de hoja de Moringa oleifera, Sorbato de potasio, Hidróxido de sodio, Citrato de sodio, Benzoato de sodio, Ácido cítrico, Propanodiol",
+      "uso": "Con la ayuda de la pipeta aplicar unas gotas sobre el rostro limpio y seco antes de la crema hidratante habitual, masajeando suavemente hasta su total absorción.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "locion-refrescante-excell-con-extracto-de-rosas-hamamelis-y-aloe-vera",
+      "title": "Loción refrescante Excell con Extracto de Rosas, Hamamelis y Aloe Vera",
+      "vendor": "D'LUCANI",
+      "productType": "Loción tónica",
+      "tags": [
+        "necesidad:hidratacion",
+        "piel:todo-tipo",
+        "zona:rostro"
+      ],
+      "price": "29.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/dlucanni-excell-locion-tonica-facial.jpg?v=1788170851",
+      "imageAlt": null,
+      "ingredientes": "Agua, Glicerina, Betaína, Ésteres de glicereth-8 de aceite de babasú, Aceite de ricino hidrogenado PEG-40, Edetato disódico, Fenoxietanol, Etilhexilglicerina, Perfume, Limoneno, Linalol, Salicilato de bencilo, Hexametilindanopirano, Acetato de linalilo, Acetil cedreno, Colorante CI 17200 (D&C Rojo nº 33)",
+      "uso": "Empapar un disco de algodón con EXCELL, aplicar ejerciendo presiones intermitentes sobre el rostro, cuello y escote. No necesita aclarado.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "matipur-night-crema-de-noche-reparadora-y-regeneradora-anti-imperfecciones",
+      "title": "Matipur Night Crema de Noche Reparadora y Regeneradora Anti-imperfecciones",
+      "vendor": "D'LUCANI",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "piel:mixta-grasa",
+        "zona:rostro",
+        "momento:noche",
+        "linea:matipur"
+      ],
+      "price": "21.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/crema-de-noche-matipur-dlucanni.jpg?v=1788170311",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Uso nocturno. Sobre la piel limpia, aplicar realizando un suave masaje de penetración. Se debe insistir en las zonas del rostro más castigadas por las imperfecciones.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "matipur-day-crema-de-dia-equilibrante-y-matificante-anti-imperfecciones",
+      "title": "Matipur Day Crema de Día Equilibrante y Matificante Anti-imperfecciones",
+      "vendor": "D'LUCANI",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:acne-piel-grasa",
+        "piel:mixta-grasa",
+        "zona:rostro",
+        "momento:dia",
+        "linea:matipur"
+      ],
+      "price": "21.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/crema-de-dia-matipur-dlucanni_1834d28a-0c6d-476a-a2eb-05789b4b8cd0.jpg?v=1788169533",
+      "imageAlt": null,
+      "ingredientes": "Agua, Glicerina, Triglicérido caprílico/cáprico, Copolímero de acrilatos de sodio, Propanodiol, Isoestearato de isoestearilo, Etilhexanoato de cetearilo, Alantoína, Diglicinato azeloilo potásico, Extracto de hongo Fomes officinalis, Niacinamida, Pantenol, Extracto de manzanilla, Asiaticósido, Ácido madecásico, Ácido asiático, Caprilato de glicerilo, Treonina, Biotina, Lecitina, Sílice, Aceite de semilla de girasol, Undecilenato de glicerilo, Acetato de tocoferilo, Proteína de levadura hidrolizada, Butilenglicol, Clorhidrato de piridoxina, Aceite de ricino hidrogenado PEG-40, Tocoferol, Edetato disódico, Alcohol bencílico, Clorfenesina, Fenoxietanol, Perfume, Hexil cinamal, Salicilato de amilo, Citronelol, Hexametilindanopirano, Colorante CI 47005 (D&C Amarillo nº 10), Colorante CI 42090 (FD&C Azul nº 1)",
+      "uso": "Aplicar por las mañanas una pequeña cantidad sobre la piel limpia y seca. Realizar un suave masaje hasta su total absorción. Si se desea, se puede aplicar maquillaje a continuación.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "contorno-de-ojos-k-lift-anti-ojeras-y-anti-bolsas",
+      "title": "Contorno de Ojos K-Lift Anti-ojeras y Anti-bolsas",
+      "vendor": "D'LUCANI",
+      "productType": "Contorno de ojos",
+      "tags": [
+        "necesidad:ojeras-bolsas",
+        "zona:ojos"
+      ],
+      "price": "44.50",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/contorno-de-ojos-klift.jpg?v=1788168694",
+      "imageAlt": null,
+      "ingredientes": null,
+      "uso": "Aplicar sobre la piel limpia y seca de la zona periocular. Masajear mediante ligeros toquecitos desde el interior hacia el exterior hasta su completa absorción.",
+      "ingredientesEstado": "FALTA (vacío)"
+    },
+    {
+      "handle": "essential-cleanser-limpiador-hidratante-para-pieles-sensibles",
+      "title": "Essential Cleanser Limpiador Hidratante para Pieles Sensibles",
+      "vendor": "EME PROFESSIONAL SKINCARE",
+      "productType": "Limpiador facial",
+      "tags": [
+        "necesidad:calmante",
+        "piel:sensible",
+        "zona:rostro",
+        "momento:dia-noche",
+        "linea:essential"
+      ],
+      "price": "24.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/eme-essential-cleaner.jpg?v=1788167799",
+      "imageAlt": null,
+      "ingredientes": "Agua, Glicerina, Jugo de hoja de aloe vera, Cocamidopropil betaína, Propanodiol, Metilpropanodiol, Alcohol cetílico, Estearato de glicerilo, Escualano, Alcohol cetearílico, Estearato de PEG-75, Caprililglicol, Aceite de semilla de macadamia, Pantenol, Aceite de semilla de jojoba, Ceteth-20, Steareth-20, Goma xantana, Alantoína, Copolímero cruzado de acrilatos/acrilato de alquilo C10-30, Tocoferol, Perfume, Hidróxido de sodio, Benzoato de sodio, Fenilpropanol, Aceite de soja, Pentilenglicol, Ácido cítrico, Hialuronato acetilado de sodio, Hialuronato de sodio, Sorbato de potasio",
+      "uso": "Aplicar sobre el rostro seco o ligeramente humedecido realizando un suave masaje. Retirar con agua o con un disco de algodón si se prefiere una limpieza sin enjuague.",
+      "ingredientesEstado": "OK"
+    },
+    {
+      "handle": "exo-ionic-cream-revitalizador-mensajero-celular-triexosoma",
+      "title": "Exo IONIC Cream Revitalizador Mensajero Celular Triexosoma",
+      "vendor": "D'LUCANI",
+      "productType": "Crema facial",
+      "tags": [
+        "necesidad:antiedad",
+        "necesidad:hidratacion",
+        "piel:madura",
+        "zona:rostro",
+        "momento:dia-noche"
+      ],
+      "price": "75.90",
+      "currency": "EUR",
+      "image": "https://cdn.shopify.com/s/files/1/1107/2651/2989/files/crema-exoionic-dlucanni.jpg?v=1788162249",
+      "imageAlt": null,
+      "ingredientes": "Agua, Aceite mineral, Cera de abeja modificada (PEG-8), Vaselina, PEG-400, Polisorbato 60, Manteca de karité, Escualano, Copolímero de acrilato de hidroxietilo/taurato de acriloildimetil sodio, Isohexadecano, Extracto de fruto de melón amargo, Extracto de flor de manzanilla, Extracto de raíz de regaliz, Extracto de flor de tilo de hoja ancha, ADN sódico, Aceite de flor de rosa mosqueta, Fermento de Lactobacillus, Extracto de flor de caléndula, Extracto de hoja de centella asiática, Extracto de flor de aciano, Extracto de flor de hipérico, Ésteres de jojoba, Glicerina, Bisabolol, Triglicéridos C10-18, Cera de semilla de girasol, Palmitato de retinilo, Acetato de tocoferilo, Fosfolípidos, Cera de flor de acacia mimosa, Ácido ascórbico, 1,2-Hexanodiol, PEG-8, Palmitato de ascorbilo, Caprililglicol, Hectorita de disteardimonio, Propanodiol, Tocoferol, Poliglicerina-3, Carbonato de propileno, Goma de celulosa, Fenilpropanol, Isoestearato de sorbitán, Benzoato de sodio, Sorbato de potasio, Alcohol diclorobencílico, Ácido cítrico, Perfume, Hexil cinamal, Acetato de linalilo, Citronelol, Aceite de flor de naranjo dulce, Limoneno, Alcohol bencílico, Hexametilindanopirano",
+      "uso": "Mañana y/o Noche.\nAplicar una pequeña cantidad del producto sobre la piel limpia y seca; masajear suavemente sobre la cara, cuello y escote hasta que se absorba por completo.",
+      "ingredientesEstado": "OK"
+    }
+  ]
+}
